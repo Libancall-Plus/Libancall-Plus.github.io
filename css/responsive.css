@@ -63,6 +63,9 @@
     .copyrights{
         font-size: 10px;
     }
+    #about .left-section{
+        padding-left: 30px;
+    }
 }
 
 @media all and (max-width:992px){
@@ -71,5 +74,8 @@
     }
     .dark-bg{
         display: none;
+    }
+    #about .left-section{
+        padding-left: 30px;
     }
 }

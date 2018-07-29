@@ -372,6 +372,7 @@ header .contact-section p {
     background: url(../imgs/left-section.png) center center;
     background-size: contain;
     background-repeat: no-repeat;
+    padding-left:150px;
 }
 
 #about .right-section {
@@ -382,10 +383,10 @@ header .contact-section p {
 
 #about .dark-bg {
     background: #2f2f2f;
-    width: 125%;
+    width: 100%;
     height: 300px;
     position: absolute;
-    right: -90px;
+    right: 0;
     bottom: -80px;
     z-index: -1;
 }
